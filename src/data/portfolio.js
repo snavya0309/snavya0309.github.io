@@ -210,10 +210,10 @@ export const projects = [
 
 export const experience = [
   {
-    date: "DEC 2024 – PRESENT",
+    date: "DEC 2024 – MAY 2026",
     title: "Alt. Format Text Editor & QA Engineer",
     company: "ARIZONA STATE UNIVERSITY · TEMPE, AZ",
-    current: true,
+    current: false,
     chips: ["Equidox", "OCR", "TTS", "JAWS", "Accessibility", "QA"],
     bullets: [
       "Processed <b>100+ document chapters</b> using <b>Equidox</b> — converting scanned and unstructured course materials into tagged PDFs with correct reading order, heading structure, and alt text for full screen reader compatibility",
