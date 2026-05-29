@@ -216,9 +216,9 @@ export const experience = [
     current: false,
     chips: ["Equidox", "OCR", "TTS", "JAWS", "Accessibility", "QA"],
     bullets: [
-      "Processed <b>100+ document chapters</b> using <b>Equidox</b> — converting scanned and unstructured course materials into tagged PDFs with correct reading order, heading structure, and alt text for full screen reader compatibility",
+      "Processed <b>100+ document chapters</b> using <b>Equidox</b>, converting scanned course materials into tagged PDFs with correct reading order, heading structure, and alt text for full screen reader compatibility",
       "Applied <b>OCR workflows</b> to digitize printed content, enabling TTS platforms to accurately parse equations, tables, and multi-column layouts that previously failed automated tools",
-      "QA'd converted documents against <b>WCAG accessibility standards</b> using JAWS — identifying and resolving tagging errors to ensure consistent, accurate access for students with disabilities",
+      "QA'd converted documents against <b>WCAG accessibility standards</b> using JAWS, resolving tagging errors to ensure consistent and accurate access for students with disabilities",
     ],
   },
   {
@@ -228,9 +228,9 @@ export const experience = [
     current: false,
     chips: ["Python", "scikit-learn", "SHAP", "Streamlit"],
     bullets: [
-      "Engineered a modular ML platform using Python and scikit-learn to predict startup exits, valuations, and timelines — <b>85% exit classification accuracy</b>",
-      "Delivered a <b>production Streamlit analytics app</b> with CSV upload, SHAP explainability, versioned model persistence, and structured reporting — reducing screening time <b>by 20%</b>",
-      "Partnered with finance and strategy teams to translate business requirements into statistical models for startup evaluation",
+      "Built a modular ML platform in Python and scikit-learn to classify startup exits, valuations, and timelines, achieving <b>85% classification accuracy</b>",
+      "Shipped a <b>production Streamlit analytics app</b> with CSV upload, SHAP explainability, versioned model persistence, and PDF reporting, cutting analyst screening time <b>by 20%</b>",
+      "Worked closely with finance and strategy teams to translate business requirements into statistical models for startup evaluation",
     ],
   },
   {
@@ -240,8 +240,8 @@ export const experience = [
     current: false,
     chips: ["Python", "XGBoost", "CatBoost", "SQL", "Tableau"],
     bullets: [
-      "Built <b>ETL pipelines</b> to clean and aggregate 3+ heterogeneous eviction datasets using Python and SQL; produced <b>Tableau dashboards</b> covering hundreds of Maricopa County census tracts to identify high-risk eviction zones",
-      "Trained eviction risk models using <b>XGBoost and CatBoost</b> on socio-economic indicators — <b>15% improvement</b> over baseline, informing equitable housing policy interventions",
+      "Built <b>ETL pipelines</b> in Python and SQL to clean and merge 3+ eviction datasets; created <b>Tableau dashboards</b> across Maricopa County census tracts to surface high-risk eviction zones",
+      "Trained <b>XGBoost and CatBoost</b> models on socio-economic indicators, achieving a <b>15% improvement</b> over baseline and informing equitable housing policy decisions",
     ],
   },
   {
@@ -251,11 +251,11 @@ export const experience = [
     current: false,
     chips: ["Python", "RAG", "AWS", "React.js", "Kotlin", "MongoDB", "GitHub Actions"],
     bullets: [
-      "Developed a <b>Python GenAI chatbot on AWS</b> enabling 50+ vehicle technicians to retrieve repair procedures via RAG — improving workflow efficiency <b>by 20%</b>",
-      "Architected <b>RESTful MongoDB backend</b> with async request handling — reducing response latency and data access efficiency <b>by 25%</b>",
-      "Implemented <b>25+ features</b> using React.js (TypeScript) and Kotlin — reducing end-to-end latency <b>by 35%</b>",
+      "Built a <b>Python GenAI chatbot on AWS</b> using RAG, enabling 50+ vehicle technicians to retrieve repair procedures and improving workflow efficiency <b>by 20%</b>",
+      "Architected a <b>RESTful MongoDB backend</b> with async request handling, cutting response latency <b>by 25%</b>",
+      "Shipped <b>25+ features</b> across React.js (TypeScript) and Kotlin frontends, reducing end-to-end latency <b>by 35%</b>",
       "Increased automated test coverage <b>by 30%</b> through unit testing and SonarQube quality gates",
-      "Migrated CI/CD from Jenkins → GitHub Actions on AWS — reducing deployment time <b>by 20%</b>",
+      "Migrated CI/CD from Jenkins to GitHub Actions on AWS, reducing deployment time <b>by 20%</b>",
     ],
   },
 ]
